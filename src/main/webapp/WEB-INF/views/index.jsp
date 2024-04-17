@@ -11,8 +11,9 @@
 <body>
 	<h3>커밋한 내용취소하고 싶다면</h3>
 	<p>1. 브랜치 초기화-특정지점까지 초기화하는 기능</p>
-	<p>2. reverse commit-특정 커밋에서 실행한 내용 취소하고, 이후 내용 유지하고 싶을 때 사용</p>
+	<p>2. reverse commit</p>
 	<p>불필요한 내용</p>
+
 </body>
 <script>
 </script>
