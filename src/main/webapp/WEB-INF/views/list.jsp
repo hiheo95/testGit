@@ -21,7 +21,7 @@ img.icon{
 	<thread>
 	<tr>
 		<th><input type="checkbox" id="all" onclick="checkAll()"/></th>
-		<th>글번호</th>
+		<th>글번호야</th>
 		<th>이미지</th>
 		<th>제목</th>
 		<th>작성자</th>
